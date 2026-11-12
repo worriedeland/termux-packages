@@ -1,0 +1,9 @@
+TERMUX_PKG_HOMEPAGE=https://github.com/susam/mintotp/
+TERMUX_PKG_DESCRIPTION="Minimalist Time-based One-Time Password (TOTP) implementation"
+TERMUX_PKG_LICENSE="MIT"
+TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_VERSION="0.3.0.20240120"
+TERMUX_PKG_SRCURL="https://github.com/susam/mintotp/archive/a8bade22a0b93d9ae0dbf04fe730ecbd6c23edcc/mintotp-a8bade22a0b93d9ae0dbf04fe730ecbd6c23edcc.tar.gz"
+TERMUX_PKG_SHA256=5e2b4795ed1d65b19cb53631307690203093eca88d0f1f14f5fab4550153d457
+TERMUX_PKG_DEPENDS="python"
+TERMUX_PKG_BUILD_IN_SRC=true
